@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Connect with me
-- 🌎 Website: [saaranshxd.netlify.app](https://saaranshxd.netlify.app)  
+- 🌎 portfolio: [saaranshxd.netlify.app](https://saaranshxd.netlify.app)  
 - 📺 YouTube: [@Saaransh_Xd](https://youtube.com/@Saaransh_Xd)  
 - 💬 Discord: **@Saaransh_Xd**
 
