@@ -23,14 +23,6 @@
 > A lightweight Minecraft plugin that seamlessly connects your server chat with Discord using webhooks.  
 *Built in Java.*
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaaranshDx&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaaranshDx&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## ⚡ Fun Facts
 - 💻 Started pushing commits like I’m speedrunning GitHub  
 - 🎮 Running **Broken SMP** (join us 👉 [Discord](https://discord.gg/mHHYRg6cS9))  
