@@ -15,6 +15,9 @@
 ---
 
 ## 🔥 Featured Projects
+### ⚡ [Quikfps](https://quikfps.qzz.io/)
+> A powerfull pc optimiser made to boost your fps
+> 
 ### ⚡ [VOIDKILL](https://github.com/SaaranshDx/voidkill)
 > An advanced terminal-based system toolkit for Windows — combines a task manager and a network utility suite.  
 *Built in PowerShell.*
