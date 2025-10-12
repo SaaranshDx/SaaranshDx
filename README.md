@@ -26,9 +26,6 @@
 > A lightweight Minecraft plugin that seamlessly connects your server chat with Discord using webhooks.  
 *Built in Java.*
 
-### ⚡ [Quikfps](https://quikfps.qzz.io/)
-> A powerfull pc optimiser made to boost your fps
-> 
 ## ⚡ Fun Facts
 - 💻 Started pushing commits like I’m speedrunning GitHub  
 - 🎮 Running **Broken SMP** (join us 👉 [Discord](https://discord.gg/mHHYRg6cS9))  
