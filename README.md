@@ -3,18 +3,11 @@
 
 I'm a 16-year-old developer passionate about coding and always eager to learn more.
 ---
-
-## 🌐 Connect with me
-- 🌎 portfolio: [saaranshxdd.netlify.app](https://saaranshxdd.netlify.app)  
-- 📺 YouTube: [@Saaransh_Xd](https://youtube.com/@Saaransh_Xd)  
-- 💬 Discord: [Discord](https://dsc.gg/brokensmp)
-
----
 - 🔭 I’m currently working on Minecraft Clients
 - 🌱 I’m currently learning JavaScript
 - 💀 I HATE FRONT END
 - 💬 You can ask me about Python or java
-- 😄 Pronouns: He/Him
+- 💖 My love are Servers
 - ⚡ Fun fact: Big fan of Minecraft
 
 ## Find me around the web 🌍
