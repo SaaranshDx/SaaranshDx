@@ -59,5 +59,4 @@ I'm a 16-year-old developer passionate about coding and always eager to learn mo
 [![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 <br>
 ---
-
 ⭐ *“Locked in, building repos, and leaving commits like footprints.”*
