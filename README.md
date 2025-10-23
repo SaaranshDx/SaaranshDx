@@ -10,7 +10,7 @@ I'm 16-year-old boy who wants finds his pastion in coding and wants to learn mor
 - 💬 Discord: [Discord](https://dsc.gg/brokensmp)
 
 ---
-- 🔭 I’m currently working on Minecraft [Mods](https://modrinth.com/user/syanicxd) & Clients [Checkout [PiCapes](https://discord.gg/AfUuEgaq8Y)]
+- 🔭 I’m currently working on Minecraft Clients
 - 🌱 I’m currently learning JavaScript
 - 💀 I HATE FRONT END
 - 💬 You can ask me about Python or Node.js
