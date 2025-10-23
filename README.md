@@ -1,4 +1,4 @@
-![ReyloReyloEyeContactGIF](https://github.com/user-attachments/assets/cd21ed2b-9255-4d45-9e7d-69107a8a16c6)<img align ="right" src="https://visitor-badge.laobi.icu/badge?page_id=fspofficialviewers" alt="fspofficial-viewers">
+<img align ="right" src="https://visitor-badge.laobi.icu/badge?page_id=fspofficialviewers" alt="fspofficial-viewers">
 <h1 align="center">Hi there, I'm Saaransh_Xd aka Saaransh👋</h1>
 
 I'm 16-year-old boy who wants finds his pastion in coding and wants to learn more and more 
