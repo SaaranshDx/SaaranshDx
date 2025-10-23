@@ -42,8 +42,11 @@ I'm 16-year-old boy who wants finds his pastion in coding and wants to learn mor
 [![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![](https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://en.wikipedia.org/wiki/Terminal_(macOS))
-
-
+<br>
+🧑‍💻 OS that i use <br>
+[![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
+<br>
 ---
 
 ⭐ *“Locked in, building repos, and leaving commits like footprints.”*
