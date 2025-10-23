@@ -30,7 +30,7 @@ I'm 16-year-old boy who wants finds his pastion in coding and wants to learn mor
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
 <br>
-🌟 Frame works I use
+🌟 Frame works I use <br>
 [![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
