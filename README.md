@@ -13,7 +13,7 @@ I'm a 16-year-old developer passionate about coding and always eager to learn mo
 - 🔭 I’m currently working on Minecraft Clients
 - 🌱 I’m currently learning JavaScript
 - 💀 I HATE FRONT END
-- 💬 You can ask me about Python or Node.js
+- 💬 You can ask me about Python or java
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Big fan of Minecraft
 
