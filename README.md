@@ -4,7 +4,7 @@
 I'm a 16-year-old developer passionate about coding and always eager to learn more.
 ---
 - 🔭 I’m currently working on Minecraft Clients
-- 🌱 I’m currently learning ruby
+- 🌱 I’m currently learning go
 - 💀 I HATE SOCIALISING 
 - 💬 You can ask me about Python or java
 - 💖 My love are Servers
